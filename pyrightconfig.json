@@ -1,0 +1,10 @@
+{
+    "extraPaths": [
+        "gallery"
+    ],
+    "executionEnvironments": [
+        {
+            "root": "gallery"
+        }
+    ]
+}
